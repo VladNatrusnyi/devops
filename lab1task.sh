@@ -10,3 +10,4 @@ tar czf $dest/$archive_file $backup_files
 echo "Backup finished"
 
 #!/some comment
+#!/some comment2
